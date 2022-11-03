@@ -1,0 +1,18 @@
+body {
+   text-align: center;
+   background-color: midnightblue;
+}
+
+#back {
+   width: 400px;
+   background: white;
+   margin: auto;
+   border-radius: 10px 10px 10px 10px;
+   
+   
+}
+
+footer {
+   margin-top: 10px;
+   color: yellow;
+}
